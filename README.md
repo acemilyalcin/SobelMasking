@@ -2,7 +2,8 @@
 
 Sobel filter applied on binary image and after applied some logical operations (AND, OR etc.) on the image. For make this logical operations, I used methods of operator overloading .
 ![Original Image](https://www.researchgate.net/profile/Dibya_Bora4/publication/314446743/figure/fig3/AS:470301768196096@1489140087642/Original-Lena-Color-Image.png)
-![After Mask](https://pasteboard.co/HXVhXp2.png)
+
+![](https://i.ibb.co/DVwpsF7/image.png)
 ## Installation
 
 ```bash
